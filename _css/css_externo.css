@@ -1,0 +1,82 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: red;
+}
+
+h3 {
+    color: red;
+}
+
+.f1s {
+    background-color: yellow;
+    border: 3px solid purple;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.f1 {
+    width: x;
+    background-color: lightblue;
+    padding: 10px;
+}
+
+hr {
+    border: 10px solid red;
+    border-radius: 10px;
+}
+
+.f2textarea {
+    height: 70px;
+    width: 800px;
+    background-color: lightblue;
+    resize: none;
+}
+
+.f3textarea {
+    height: 60px;
+    width: 200px;
+    resize: none;
+}
+
+.f3field {
+    border: 3px solid purple;
+    border-radius: 5px;
+    
+}
+
+div {
+    color: purple;
+}
+
+.f5field {
+    border: 4px solid goldenrod;
+}
+
+.f5legend {
+    color: darkgreen;
+    font-style: italic;
+}
+
+.f5 {
+    color: darkgreen;
+    font-style: italic;
+}
+
+.f4 {
+    height: 50px;
+    width: 250px;
+    border: 1px solid red;
+}
+
+.f4s {
+    height: 50px;
+    width: 200px;
+    background-color: black;
+    color: darkred;
+    border-radius: 15px;
+    border: none;
+    font-size: 18px;
+}
